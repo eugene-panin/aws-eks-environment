@@ -1,0 +1,3 @@
+bucket = "replace-with-your-terraform-state-bucket"
+key    = "aws-eks-environment/prod/terraform.tfstate"
+region = "eu-west-1"
